@@ -1,0 +1,9 @@
+[project]
+name = "llm_patterns_openai"
+version = "0.1.0"
+description = "LLM paterns for a responses API openai multiturn chat with tool usage"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=2.8.1",
+]
