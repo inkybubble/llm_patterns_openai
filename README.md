@@ -1,6 +1,7 @@
 # LLM Patterns in openai - a multi-turn chat with tool-usage 
 
 Chat pipeline with tool calling. Starting point from OpenAI's function calling quickstart. A reference that I can use for other applications, to structure outputs.
+The horoscope example was inspired by the openai developer guide and lightly modified.
 
 ## Setup
 
